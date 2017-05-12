@@ -9,7 +9,7 @@
 .ui-icon{display:block;text-indent:-99999px;overflow:hidden;background-repeat:no-repeat;}
 .ui-widget-overlay{position:absolute;top:0;left:0;width:100%;height:100%;}
 .ui-slider{position:relative;text-align:left;}
-.ui-slider .ui-slider-handle{position:absolute;z-index:2;width:12px;height:18px;cursor:default;background:url(http://housing.co.in/assets/slider-tab-7143878707b0292d001a4f20f74bb619.png) center no-repeat;}
+.ui-slider .ui-slider-handle{position:absolute;z-index:2;width:12px;height:18px;cursor:default;background:url(http://ncrhousing.co.in/assets/slider-tab-7143878707b0292da4f20f74bb619.png) center no-repeat;}
 .ui-slider .ui-slider-range{position:absolute;z-index:1;font-size:.7em;display:block;background-position:0 0;border-radius:2px;}
 .ui-slider-horizontal{height:5px;}
 .ui-slider-horizontal .ui-slider-handle{top:-0.4em;margin-left:-0.6em;}
